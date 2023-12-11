@@ -31,7 +31,9 @@ Python, Django, Django Rest Framework, PostgreSQL.
 API Endpoints   :-
 
 @ lift/elevator/
+
 @ lift/elevatorsystems/
+
 @ lift/elevatorrequest/
 @ lift/elevators/pk/all_requests/   -   Fetching All requests for a given elevator.
 @ lift/elevators/pk/calculate_next_destination/   -   Fetching next destination floor.
